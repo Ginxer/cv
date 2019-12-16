@@ -1,0 +1,134 @@
+body{
+  background-color: #ecf4f3;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1
+{
+  font-size: 5.625rem;
+  margin-top: 50px;
+  font-family: 'Adamina', serif;
+  color: #018383;
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #57a99a;
+  border-width: 5px;
+  width: 5%;
+}
+
+h2
+{
+  color: #015668;
+}
+
+h3
+{
+  color: #018383;
+}
+
+.prog
+{
+  font-size: 2.5rem;
+  color: #018383;
+}
+
+.Start
+{
+  background-color: #d1eecc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.botcloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.middle-container
+{
+
+}
+
+.education
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.projects
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.projects-row
+{
+
+}
+
+.skills
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.awards
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.awards-row
+{
+
+}
+
+.events
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.events-row
+{
+
+}
+
+footer{
+  background-color: #d1eecc;
+  padding: 50px;
+}
+
+.btn
+{
+
+}
+
+
+.footer-link
+{
+
+}
