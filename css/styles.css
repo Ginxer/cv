@@ -46,16 +46,21 @@ h3
 }
 
 .topcloud{
+
+  width: 250px;
+  height: auto;
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 20%;
+  top: 5%;
 }
 
 .botcloud
 {
+  width: 250px;
+  height: auto;
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 10%;
+  bottom: 40%;
 }
 
 .profile
@@ -132,3 +137,4 @@ footer{
 {
 
 }
+
